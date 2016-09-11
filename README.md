@@ -1,5 +1,4 @@
 # hello-world
-It's another repository
 Hi there!
 
 I am brand new to coding!  Really, not a clue what it is all about...yet!
